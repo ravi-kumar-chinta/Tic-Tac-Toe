@@ -38,6 +38,9 @@ Players can enter their names, play turns, and see the scoreboard update automat
 ```bash
 git clone https://github.com/ravi-kumar-chinta/TicTacToe.git
 ```
+```bash
+cd TicTacToe
+```
 ---
 
 ## 📂 File Structure
@@ -46,11 +49,13 @@ TicTacToe/
 ├── assets/
 │   ├── images/
 │   │   ├── banner.png       # Banner image
-│   │   └── logo.png         # Logo image
+│   │   ├── screenshot.png   # Screenshot image
+│   │   └── favicon.png      # Logo renamed as favicon
 ├── style.css                # Styling for the game
 ├── script.js                # JavaScript logic
 ├── index.html               # Main HTML file
 └── README.md                # Project documentation
+
 
 ```
 ---
