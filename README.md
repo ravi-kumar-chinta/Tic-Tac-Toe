@@ -49,7 +49,7 @@ TicTacToe/
 ├── assets/
 │   ├── images/
 │   │   ├── banner.png       # Banner image
-│   │   ├── screenshot.png   # Screenshot image
+│   │   ├── Screenshot.png   # Screenshot image
 │   │   └── favicon.png      # Logo renamed as favicon
 ├── style.css                # Styling for the game
 ├── script.js                # JavaScript logic
@@ -70,7 +70,7 @@ TicTacToe/
 
 ## 🖼️ Preview
 ![Game banner](assets/images/banner.png)  
-![Game Preview](assets/images/logo.png)  
+![Game Preview](assets/images/Screenshot.png)  
 
 ---
 
