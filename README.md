@@ -11,7 +11,8 @@
 **Tic Tac Toe** is a fun, interactive web-based game built using **HTML, CSS, and JavaScript**.  
 Players can enter their names, play turns, and see the scoreboard update automatically. The game is responsive and works seamlessly on both desktop and mobile devices.
 
-**🔗 Watch it Live:** [Tic Tac Toe Live Site](https://ravi-kumar-chinta.github.io/TicTacToe/)
+**🔗 Watch it Live:** [Tic Tac Toe Live Site](https://ravi-kumar-chinta.github.io/Tic-Tac-Toe/)
+
 
 ---
 
