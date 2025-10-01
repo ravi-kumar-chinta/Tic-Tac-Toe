@@ -114,11 +114,6 @@ restartBtn.addEventListener("click", () => {
 });
 
 
-toggleBtn.addEventListener("click", () => {
-  document.body.classList.toggle("light");
-  toggleBtn.textContent = document.body.classList.contains("light") ? "☀ Light" : "🌙 Dark";
-});
-
 // Initial setup
 updateScoreboard();
 startGame();

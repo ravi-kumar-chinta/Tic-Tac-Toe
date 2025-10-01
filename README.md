@@ -42,17 +42,16 @@ git clone https://github.com/ravi-kumar-chinta/TicTacToe.git
 
 ## 📂 File Structure
 ```bash
-.
+TicTacToe/
 ├── assets/
-│ ├── images/
-│ │ ├── banner.png              # Banner image
-│ │ └── logo.png                # Logo image
-├── css/
-│ └── style.css                 # Styling for the game
-├── js/
-│ └── script.js                 # JavaScript logic
-├── index.html                  # Main HTML file
-└── README.md                   # Project documentation
+│   ├── images/
+│   │   ├── banner.png       # Banner image
+│   │   └── logo.png         # Logo image
+├── style.css                # Styling for the game
+├── script.js                # JavaScript logic
+├── index.html               # Main HTML file
+└── README.md                # Project documentation
+
 ```
 ---
 
